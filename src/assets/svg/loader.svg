@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9163" data-name="Rectangle 9163" width="24" height="24" transform="translate(1472 832)" fill="#f5983b" opacity="0"/>
+    </clipPath>
+  </defs>
+  <g id="icon_loading" transform="translate(-1440 -832)">
+    <rect id="Rectangle_9164" data-name="Rectangle 9164" width="24" height="24" transform="translate(1440 832)" fill="#f5983b" opacity="0"/>
+    <g id="icon_loading-2" data-name="icon_loading" transform="translate(-32)" clip-path="url(#clip-path)">
+      <g id="_229796c9416d0f85add2a9630f4e38a5" data-name="229796c9416d0f85add2a9630f4e38a5" transform="translate(1471.755 831.755)">
+        <path id="Path_2555" data-name="Path 2555" d="M9.144,3.446a3.2,3.2,0,1,0,3.2-3.2A3.2,3.2,0,0,0,9.144,3.446Zm6.789,2.811a3.2,3.2,0,1,0,3.2-3.2A3.2,3.2,0,0,0,15.933,6.257Zm4.413,6.789a1.6,1.6,0,1,0,1.6-1.6A1.6,1.6,0,0,0,20.346,13.046Zm-2.814,6.789a1.6,1.6,0,1,0,1.6-1.6A1.6,1.6,0,0,0,17.532,19.834Zm-6.786,2.811a1.6,1.6,0,1,0,1.6-1.6A1.6,1.6,0,0,0,10.746,22.646ZM3.958,19.834a1.6,1.6,0,1,0,1.6-1.6A1.6,1.6,0,0,0,3.958,19.834Zm-.8-13.577a2.4,2.4,0,1,0,2.4-2.4A2.4,2.4,0,0,0,3.157,6.257ZM.945,13.046a1.8,1.8,0,1,0,1.8-1.8,1.8,1.8,0,0,0-1.8,1.8Z" fill="#f5983b"/>
+      </g>
+    </g>
+  </g>
+</svg>
